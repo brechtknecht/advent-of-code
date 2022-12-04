@@ -57,4 +57,4 @@ textEntries.forEach((entry) => {
 
 
 
-console.log(NUMBER_OF_DUPES)
+console.log("Result:", NUMBER_OF_DUPES)
