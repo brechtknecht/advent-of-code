@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "day2" : "nodemon day2/day2.js",
+    "day2part1" : "nodemon day2/day2-part-1.js",
+    "day2part2" : "nodemon day2/day2-part-2.js",
     "day4" : "nodemon day4/day4.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
